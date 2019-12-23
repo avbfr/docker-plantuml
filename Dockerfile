@@ -1,6 +1,6 @@
 ########################################################################################
 
-FROM jetty
+FROM jetty:latest
 MAINTAINER Alexandre VIAL-BOUKOBZA
 
 USER root
